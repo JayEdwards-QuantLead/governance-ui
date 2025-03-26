@@ -10,5 +10,6 @@
       }
     ]
   ],
-  "plugins": ["@emotion/babel-plugin", "babel-plugin-macros"]
+  "plugins": ["@emotion/babel-plugin", "babel-plugin-macros"],
+  "ignore": ["DriftStakeVoterPlugin/idl/drift.ts"]
 }
