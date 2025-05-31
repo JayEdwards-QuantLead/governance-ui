@@ -6,5 +6,3 @@ publish = "out"
 NODE_VERSION = "18.18.0"
 SHARP_IGNORE_GLOBAL_LIBVIPS = "true"  
 
-[[plugins]]
-package = "@netlify/plugin-nextjs"
